@@ -1,4 +1,5 @@
 import numpy as np
+import math
 
 a1 = float(input("a1 ="))
 a2 = float(input("a2 ="))
