@@ -1,1 +1,1 @@
-This repository is dedicated to this course, Robotics 2.
+This repository is dedicated for trying the course, Robotics 2.
